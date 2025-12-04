@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
 ![Ollama](https://img.shields.io/badge/AI-Ollama%20(Local)-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Un assistant conversationnel intelligent, 100% local et respectueux de la vie privée.  
 Ce projet combine la puissance des **LLMs génératifs** (via Ollama) avec une couche d'analyse **NLP classique** (spaCy, NLTK) pour offrir des réponses contextuelles et précises.
