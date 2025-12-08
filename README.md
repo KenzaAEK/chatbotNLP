@@ -41,5 +41,5 @@ Le projet suit une architecture modulaire :
 
 ### 1. Cloner le dépôt
 ```bash
-git clone [https://github.com/votre-username/votre-repo.git](https://github.com/votre-username/votre-repo.git)
+git clone [https://github.com/KenzaAEK/chatbotNLP.git](https://github.com/KenzaAEK/chatbotNLP.git)
 cd votre-repo
